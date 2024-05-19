@@ -11,7 +11,8 @@ To address this challenge, I've developed a comprehensive dashboard that highlig
 <img width="712" alt="Dashboard" src="https://github.com/nehasharma2513/HRAnalytics_Tableau/assets/142134132/c3f7a135-408a-4058-b752-f3a3bc479194">
 
 
-Here's a video presentation for the Analysis : [HR Analytics Dashboard Video Presentation](https://www.linkedin.com/posts/nehasharma25_hranalytics-employeeretention-datadrivendecisions-activity-7194784263144108032-l5g8?utm_source=share&utm_medium=member_desktop)
+
+Here's a video presentation of the Analysis : [HR Analytics Dashboard Video Presentation](https://www.linkedin.com/posts/nehasharma25_hranalytics-employeeretention-datadrivendecisions-activity-7194784263144108032-l5g8?utm_source=share&utm_medium=member_desktop)
 
 The analysis reveals that younger male employees with backgrounds in Life Sciences, particularly those within the R&D department, are significant contributors to the attrition rates. To address this issue, the HR department can implement targeted interventions and strategies. These may involve investing in employee development initiatives, promoting a healthier work-life balance, and ensuring competitive compensation and benefits packages. By tailoring their efforts to the specific needs and challenges of these demographic groups, we can effectively mitigate turnover and foster a more engaged and satisfied workforce.
 
